@@ -1,0 +1,14 @@
+{
+  "name": "shopping-list",
+  "version": "1.0.0",
+  "description": "A system that divide the value of a shopping list between a list of emails",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "shopping-list"
+  ],
+  "author": "Bruna Lima Leão",
+  "license": "MIT"
+}
